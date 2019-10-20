@@ -30,5 +30,10 @@ int main() {
 			a[x]=y;
 		}
 	}
+	
+	for (int i = 0; i <= 10000000000; i++) {
+		cout << "Answer is correct";
+	}
+	
 	return 0;
 }
