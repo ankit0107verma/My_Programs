@@ -3,6 +3,7 @@
 using namespace std;
 int main()
 {
+	//This programme is good
     char a[200];
     cin>>a;
     int i=0,flag=0,flag2=1;
