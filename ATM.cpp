@@ -2,6 +2,7 @@
 #include<sting.h>
 using namespace std;
 int main()
+  //Good
 { float amount,wm,balance;
 cout<<"\n Enter the amount to be withdrawed(in US$ or in rupees only ):";
 cin>>wm;
